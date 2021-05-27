@@ -6,6 +6,7 @@ Based on this data, three tasks listed below should be completed
 
 ## Task 1. Data Collection
 Select three of the 9 news categories: [ Politics UK-News, US-News] is selceted in this project.
+
 From the link above, retrieve details regarding all stories corresponding to your three selected categories, covering all months January to December 2020. For each story you will need to parse the HTML to extract the following information:
 The title of the news story.
 The short text snippet for the story which represents the start of the complete news article.
